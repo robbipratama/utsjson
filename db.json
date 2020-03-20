@@ -1,0 +1,83 @@
+{
+  "Basketball": [
+    {
+      "name": "Adidas Harden 3",
+      "price": "2.300.000"
+    },
+    {
+      "name": "Nike Lebron 16",
+      "price": "2.600.000"
+    },
+    {
+      "name": "Under Armour Curry 4",
+      "price": "1.800.000"
+    },
+    {
+      "name": "Air Jordan 32",
+      "price": "2.000.000"
+    },
+    {
+      "name": "Nike Kyrie 3",
+      "price": "1.750.000"
+    },
+    {
+      "name": "Adidas Dame 6",
+      "price": "2.000.000"
+    }
+  ],
+  "Sneakers": [
+    {
+      "name": "Air Jordan 1 Mid Infrared",
+      "price": "2.899.000"
+    },
+    {
+      "name": "Adidas NMD 2",
+      "price": "3.000.000"
+    },
+    {
+      "name": "Nike Air Force 1",
+      "price": "1.800.000"
+    },
+    {
+      "name": "Adidas Prophere",
+      "price": "1.900.000"
+    },
+    {
+      "name": "Adidas Ultra Boost GoT",
+      "price": "2.400.000"
+    },
+    {
+      "name": "Nike React Element 55",
+      "price": "2.100.000"
+    }
+  ],
+  "jaket": [
+    {
+      "name": "Black Master",
+      "price": "1.000.000"
+    },
+    {
+      "name": "Cole",
+      "price": "800.000"
+    },
+    {
+      "name": "Kickers",
+      "price": "1.400.000"
+    },
+    {
+      "name": "Alexander",
+      "price": "400.000"
+    },
+    {
+      "name": "Garguci",
+      "price": "650.000"
+    },
+    {
+      "name": "Clarks",
+      "price": "700.000"
+    }
+  ],
+  "produk": {
+    "name": "produk"
+  }
+}
